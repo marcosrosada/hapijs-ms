@@ -12,10 +12,6 @@
   },
   "author": "Marcos Rosada <marcosfrosada@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/marcosrosada/hapijs-ms/issues"
-  },
-  "homepage": "https://github.com/marcosrosada/hapijs-ms#readme",
   "dependencies": {
     "@hapi/hapi": "^18.3.1"
   }
