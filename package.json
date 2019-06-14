@@ -1,0 +1,22 @@
+{
+  "name": "hapijs-ms",
+  "version": "1.0.0",
+  "description": "MicroServices",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosrosada/hapijs-ms.git"
+  },
+  "author": "Marcos Rosada <marcosfrosada@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosrosada/hapijs-ms/issues"
+  },
+  "homepage": "https://github.com/marcosrosada/hapijs-ms#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1"
+  }
+}
